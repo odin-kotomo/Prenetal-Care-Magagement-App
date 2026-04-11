@@ -1,8 +1,5 @@
 # PrenatalCare Pro — Mother's Safe Hospital
 
-A custom prenatal care management application for Mother's Safe Hospital, Hyderabad.  
-IB Computer Science HL Internal Assessment — Candidate: mdt178 | Session: May 2026
-
 ---
 
 ## Tech Stack
