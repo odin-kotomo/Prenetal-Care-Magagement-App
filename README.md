@@ -66,7 +66,7 @@ npm start
 
 ---
 
-## Key Architecture Notes (matching IA Criterion C)
+## Key Architecture Notes 
 
 - **`updateDoc(fn)`** — Deep-copies state before mutation; ensures React detects changes
 - **`bpStatus(sys)`** — Pure function: systolic → `{label, color, bg}`; used in 4 places
